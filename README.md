@@ -62,17 +62,4 @@
 
 ---
 
-🐍 **Fun Stuff: GitHub Contribution Snake**  
-![Snake animation](https://github.com/kartikraut98/kartikraut98/blob/output/github-contribution-grid-snake.svg)
 
----
-
-### 🚀 Next Steps
-✅ **Set this README.md as your GitHub Profile**  
-✅ **Enable GitHub Actions for animations**  
-✅ **Host your projects interactively using Streamlit/Gradio**  
-✅ **Continue contributing to open-source ML projects**  
-
----
-
-Would you like help setting up a **GitHub Actions workflow** for auto-updating your profile? 🚀
